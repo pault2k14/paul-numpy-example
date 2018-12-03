@@ -13,6 +13,6 @@ parts:
   paul-numpy-example:
     plugin: python
     python-version: python3
-    requirements: ./requirements.txt
+    requirements: requirements.txt
     source: .
     source-type: git
