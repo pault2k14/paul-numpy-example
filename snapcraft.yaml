@@ -7,7 +7,7 @@ confinement: devmode
 
 apps:
   paul-numpy-example:
-    command: bin/main
+    command: main
 
 parts:
   paul-numpy-example:

@@ -8,5 +8,6 @@ setup(
     license='',
     author='paul',
     author_email='',
-    description=''
+    description='',
+    scripts=['bin/main']
 )
